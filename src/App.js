@@ -2,6 +2,9 @@ import React from "react";
 import Navbar from "./components/navbar/Navbar";
 import Banner from "./components/banner/Banner";
 import Projects from "./components/projects/Projects";
+import Contact from "./components/contact/Contact";
+//import Experience from "./components/experience/Experience";
+//import Resume from "./components/resume/Resume";
 
 function App() {
   return (
@@ -10,6 +13,7 @@ function App() {
       <div className="max-w-screen-xl mx-auto ">
         <Banner />
         <Projects />
+        <Contact />
       </div>
     </div>
   );
