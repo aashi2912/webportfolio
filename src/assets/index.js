@@ -1,9 +1,19 @@
 import logo from "./images/logo.png";
 import profile from "./images/profile.png";
-//import projectOne from "./images/projects/projectOne.jpg";
-//import projectTwo from "./images/projects/projectTwo.jpg";
-//import projectThree from "./images/projects/projectThree.jpeg";
+import projectOne from "./images/projects/projectOne.jpeg";
+import projectTwo from "./images/projects/projectTwo.jpeg";
+import projectThree from "./images/projects/projectThree.jpeg";
+import projectFour from "./images/projects/projectFour.jpeg";
+import projectFive from "./images/projects/projectFive.jpeg";
 //import quote from "./images/testmonial/quote.png";
 //import contactImg from "./images/contact/contactImg.png";
 
-export { logo, profile };
+export {
+  logo,
+  profile,
+  projectOne,
+  projectTwo,
+  projectThree,
+  projectFour,
+  projectFive,
+};
