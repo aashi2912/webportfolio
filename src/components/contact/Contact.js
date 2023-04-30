@@ -23,7 +23,7 @@ const Contact = () => {
           truly exceptional!
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Phone: <span className="text-lightText">+91 905-781-9965</span>
+          Phone: <span className="text-lightText">+1 905-781-9965</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Email:{" "}

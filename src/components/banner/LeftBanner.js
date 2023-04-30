@@ -19,7 +19,7 @@ const LeftBanner = () => {
   return (
     <div className="w-full lgl:w-1/2 flex flex-col gap-20">
       <div className="flex flex-col gap-5">
-        <h4 className=" text-lg font-normal">WELCOME TO MY WORLD</h4>
+        <h4 className=" text-lg font-normal">WELCOME TO MY PORTFOLIO!</h4>
         <h1 className="text-5xl font-bold text-white">
           Hi, I'm{" "}
           <span className="text-designColor capitalize">Aashi Thakkar</span>
@@ -33,9 +33,8 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          Welcome to my web portfolio! I am a passionate developer who is trying
-          to Figure Out Stuff! I enjoy working and building interactive and
-          beautiful UI for websites.
+          I am a passionate developer who is trying to Figure Out Stuff! I enjoy
+          working and building interactive and beautiful UI for websites.
           <br />
           <br />I believe that the best user experiences are created when design
           and functionality are seamlessly integrated, and this is where I
@@ -60,9 +59,9 @@ const LeftBanner = () => {
           positivity.
         </p>
       </div>
-      <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
+      <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between pt-0">
         <div>
-          <h2 className="text-base uppercase font-titleFont mb-4">
+          <h2 className="text-base uppercase font-titleFont mb-4 ">
             Find me in
           </h2>
           <div className="flex gap-4">
