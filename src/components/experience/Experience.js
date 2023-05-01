@@ -18,28 +18,25 @@ const Experience = () => {
       >
         <div>
           <div className="flex flex-col gap-4">
-            <p className="text-sm text-designColor tracking-[4px]">
-              2010 - 2022
-            </p>
+            <p className="text-sm text-designColor tracking-[4px]">2020-2022</p>
           </div>
           <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
             <ExperienceCard
-              title="Sr. Software Engineer"
-              subTitle="Google Out Tech - (2017 - Present)"
-              result="USA"
-              des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
+              title="Jr. Software Developer (Programmer Analyst)"
+              subTitle="Cognizant Technology Solutions - ( Mar 2021 - Jun 2022)"
+              result="INDIA"
+              des="Involved in a SaaS-based product for cognizant, SIP (Shared Investigator Platform) is a shared industry research and development solution to simplify and accelerate the delivery of innovative products to patients.
+              Assisted clients to accomplish various processes involved in clinical trial process.
+             Collaborated with a production support team of 50 members, to fix technical defects and enhancements raised by clients or internal team.
+             Cooperated with the Engineering team to analyze and solved production defects."
             />
+
             <ExperienceCard
-              title="Web Developer & Trainer"
-              subTitle="Apple Developer Team - (2012 - 2016)"
-              result="MALAYSIA"
-              des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
-            />
-            <ExperienceCard
-              title="Front-end Developer"
-              subTitle="Nike - (2020 - 2011)"
-              result="Oman"
-              des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
+              title="Trainee"
+              subTitle="Larsen & Toubro- (May 2019- Jun 2019)"
+              result="INDIA"
+              des="Developed two IOT-based projects using python for organization's internal infrastructure under the guidance of senior professionals.
+              Applied Tkinter and PyQt5 library for GUI."
             />
           </div>
         </div>
