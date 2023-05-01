@@ -3,13 +3,12 @@ import { profile2 } from "../../assets/index";
 
 const RightBanner = () => {
   return (
-    <div className="w-full lgl:w-1/2 flex justify-center items-center relative lgl:bottom-[100px]">
+    <div className="w-full lgl:w-1/2 flex justify-center items-center relative lgl:bottom-[150px] ">
       <img
-        className="w-[150px] h-[400px] lgl:w-[500px] lgl:h-[680px] z-10 rounded-xl"
+        className="w-[300px] h-[300px] z-10 rounded-xl border-white"
         src={profile2}
         alt="profile2"
       />
-      <div className="absolute bottom-0 w-[350px] h-[300px] lgl:w-[500px] lgl:h-[500px] bg-gradient-to-r from-[#1e2024] to-[#202327] shadow-shadowOne flex justify-center items-center"></div>
     </div>
   );
 };
