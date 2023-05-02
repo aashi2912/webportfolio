@@ -10,7 +10,7 @@ import {
 
 const LeftBanner = () => {
   const [text] = useTypewriter({
-    words: ["Front-end Developer."],
+    words: ["Front-end Developer.", "Software Developer."],
     loop: true,
     typeSpeed: 20,
     deleteSpeed: 10,
@@ -32,7 +32,7 @@ const LeftBanner = () => {
             cursorColor="#ff014f"
           />
         </h2>
-        <p className="text-base font-bodyFont leading-6 tracking-wide">
+        <p className="text-base font-bodyFont leading-6 tracking-wide text-justify">
           I am a passionate developer who is trying to Figure Out Stuff! I enjoy
           working and building interactive and beautiful UI for websites.
           <br />
@@ -59,30 +59,12 @@ const LeftBanner = () => {
           positivity.
         </p>
       </div>
-      <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between pt-0">
+      <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 pt-0">
         <div>
           <h2 className="text-base uppercase font-titleFont mb-4 ">
             Find me in
           </h2>
           <div className="flex gap-4">
-            <span className="bannerIcon">
-              <a
-                href="https://www.instagram.com/aashi_2912/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <FaInstagram />
-              </a>
-            </span>
-            <span className="bannerIcon">
-              <a
-                href="https://twitter.com/aashi_thakkar29"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <FaTwitter />
-              </a>
-            </span>
             <span className="bannerIcon">
               <a
                 href="https://www.linkedin.com/in/aashithakkar29/"
@@ -108,6 +90,24 @@ const LeftBanner = () => {
                 rel="noreferrer"
               >
                 <FaHackerrank />
+              </a>
+            </span>
+            <span className="bannerIcon">
+              <a
+                href="https://www.instagram.com/aashi_2912/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <FaInstagram />
+              </a>
+            </span>
+            <span className="bannerIcon">
+              <a
+                href="https://twitter.com/aashi_thakkar29"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <FaTwitter />
               </a>
             </span>
           </div>
