@@ -29,6 +29,31 @@ export const navLinksdata = [
   },
 ];
 
+export const workExperiences = [
+  {
+    _id: 1,
+    title: "Jr. Software Developer (Programmer Analyst)",
+    subTitle: "Cognizant Technology Solutions - ( Mar 2021 - Jun 2022)",
+    location: "India",
+    description: [
+      "Involved in a SaaS-based product for cognizant, SIP (Shared Investigator Platform) is a shared industry research and development solution to simplify and accelerate the delivery of innovative products to patients.",
+      "Assisted clients to accomplish various processes involved in clinical trial process.",
+      "Collaborated with a production support team of 50 members, to fix technical defects and enhancements raised by clients or internal team.",
+      "Cooperated with the Engineering team to analyze and solved production defects.",
+    ],
+  },
+  {
+    _id: 2,
+    title: "Trainee",
+    subTitle: "Larsen & Toubro- (May 2019- Jun 2019)",
+    location: "Pune, India",
+    description: [
+      "Developed two IOT-based projects using python for organization's internal infrastructure under the guidance of senior professionals.",
+      "Applied Tkinter and PyQt5 library for GUI.",
+    ],
+  },
+];
+
 export const projectsData = [
   {
     title: "ADMIN DASHBOARD",
