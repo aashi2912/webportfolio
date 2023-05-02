@@ -27,3 +27,8 @@
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }
+
+body::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
