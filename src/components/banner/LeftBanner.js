@@ -33,29 +33,31 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide text-justify">
-          I am a passionate developer who is trying to Figure Out Stuff! I enjoy
-          working and building interactive and beautiful UI for websites.
+          I am a passionate software developer. However, front-end web
+          development has captured my interest like no other. I love developing
+          responsive, interactive, and visually appealing web applications using
+          technologies like ReactJS, HTML, CSS, and JavaScript. Solving complex
+          problems with creativity and meticulous attention to detail is what I
+          truly enjoy.
           <br />
-          <br />I believe that the best user experiences are created when design
-          and functionality are seamlessly integrated, and this is where I
-          excel. My expertise in{" "}
-          <b>HTML, CSS, and JavaScript (React Framework)&nbsp;</b>
-          allows me to bring a vision to life and provide users with an
-          enjoyable and engaging online experience. I have honed my proficiency
-          through academic and personal projects. I am confident that my
-          professional background and academic training have equipped me with
-          the necessary skills to become a successful front-end developer!
+          <br />I am of the firm belief that design and functionality go hand in
+          hand in creating the most optimal user experiences. My strength lies
+          in seamlessly integrating these two elements, thereby bringing visions
+          to life and delivering an enjoyable and engaging online experience to
+          users. My proficiency in these technologies has been honed through
+          academic and personal projects. With my professional background and
+          academic training, I am confident in my ability to become a successful
+          front-end developer!
           <br />
-          <br /> But it's not just about creating a pretty design. As a
-          front-end developer, I also have a deep understanding of web
-          technologies and how they interact with each other. Currently, I am
-          studying in the <b>University of Windsor</b> as a master's student. I
-          stay up-to-date with the latest industry trends and best practices to
-          ensure that my work is always cutting-edge and relevant.
+          <br /> Presently, I am pursuing my Master of Applied Computing degree
+          at the University of Windsor, and I am always on the lookout for
+          opportunities to improve my skills and apply my knowledge to
+          real-world scenarios. Starting September 2023, I will be available for
+          a 4-8 month internship.
           <br />
-          <br /> Apart from that, I like to paint and read. I am an enthusiastic
-          and social person who loves to take up new challenges and learn new
-          skills. I love exchanging ideas and spreading knowledge and
+          <br /> Apart from my work, I like to paint and read. I am an
+          enthusiastic and social person who loves to take up new challenges and
+          learn new skills. I love exchanging ideas and spreading knowledge and
           positivity.
         </p>
       </div>

@@ -11,7 +11,7 @@ const Experience = () => {
       className="w-full border-b-[1px] border-b-black pb-10 "
     >
       <div className="flex justify-center items-center text-center pt-10">
-        <Title title="1+ YEARS OF EXPERIENCE" des="Job Experience" />
+        <Title title="1.5+ YEARS OF EXPERIENCE" des="Job Experience" />
       </div>
       <motion.div
         initial={{ opacity: 0 }}
