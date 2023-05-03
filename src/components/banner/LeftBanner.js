@@ -64,7 +64,7 @@ const LeftBanner = () => {
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 pt-0">
         <div>
           <h2 className="text-base uppercase font-titleFont mb-4 ">
-            Find me in
+            Find me at
           </h2>
           <div className="flex gap-4">
             <span className="bannerIcon">

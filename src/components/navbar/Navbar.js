@@ -2,10 +2,11 @@ import React, { useState } from "react";
 import { Link } from "react-scroll";
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaGithub, FaHackerrank } from "react-icons/fa";
 import { logo } from "../../assets/index";
 import { navLinksdata } from "../../constants";
-var style = {
+
+let style = {
   width: "100px",
   height: "100px",
 };
@@ -92,17 +93,35 @@ const Navbar = () => {
 
               <div className="flex flex-col gap-4">
                 <h2 className="text-base uppercase font-titleFont mb-4">
-                  Find me in
+                  Find me at
                 </h2>
                 <div className="flex gap-4">
                   <span className="bannerIcon">
-                    <FaFacebookF />
+                    <a
+                      href="https://github.com/aashi2912"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <FaGithub />
+                    </a>
                   </span>
                   <span className="bannerIcon">
-                    <FaTwitter />
+                    <a
+                      href="https://www.linkedin.com/in/aashithakkar29/"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <FaLinkedinIn />
+                    </a>
                   </span>
                   <span className="bannerIcon">
-                    <FaLinkedinIn />
+                    <a
+                      href="https://www.hackerrank.com/thakkaraashi3"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <FaHackerrank />
+                    </a>
                   </span>
                 </div>
               </div>
