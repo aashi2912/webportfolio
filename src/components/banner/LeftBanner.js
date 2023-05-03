@@ -67,51 +67,51 @@ const LeftBanner = () => {
             Find me at
           </h2>
           <div className="flex gap-4">
-            <span className="bannerIcon">
-              <a
-                href="https://www.linkedin.com/in/aashithakkar29/"
-                target="_blank"
-                rel="noreferrer"
-              >
+            <a
+              href="https://www.linkedin.com/in/aashithakkar29/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <span className="bannerIcon">
                 <FaLinkedinIn />
-              </a>
-            </span>
-            <span className="bannerIcon">
-              <a
-                href="https://github.com/aashi2912"
-                target="_blank"
-                rel="noreferrer"
-              >
+              </span>
+            </a>
+            <a
+              href="https://github.com/aashi2912"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <span className="bannerIcon">
                 <FaGithub />
-              </a>
-            </span>
-            <span className="bannerIcon">
-              <a
-                href="https://www.hackerrank.com/thakkaraashi3"
-                target="_blank"
-                rel="noreferrer"
-              >
+              </span>
+            </a>
+            <a
+              href="https://www.hackerrank.com/thakkaraashi3"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <span className="bannerIcon">
                 <FaHackerrank />
-              </a>
-            </span>
-            <span className="bannerIcon">
-              <a
-                href="https://www.instagram.com/aashi_2912/"
-                target="_blank"
-                rel="noreferrer"
-              >
+              </span>
+            </a>
+            <a
+              href="https://www.instagram.com/aashi_2912/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <span className="bannerIcon">
                 <FaInstagram />
-              </a>
-            </span>
-            <span className="bannerIcon">
-              <a
-                href="https://twitter.com/aashi_thakkar29"
-                target="_blank"
-                rel="noreferrer"
-              >
+              </span>
+            </a>
+            <a
+              href="https://twitter.com/aashi_thakkar29"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <span className="bannerIcon">
                 <FaTwitter />
-              </a>
-            </span>
+              </span>
+            </a>
           </div>
         </div>
       </div>
