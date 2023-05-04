@@ -3,7 +3,6 @@ import {
   projectFour,
   projectOne,
   projectThree,
-  projectTwo,
 } from "../assets/index";
 export const navLinksdata = [
   {
@@ -63,13 +62,6 @@ export const projectsData = [
     src: projectOne,
     githubLink: "https://github.com/aashi2912/react-admin-dashboard",
     websiteLink: "https://aashi-react-admin-dashboard.netlify.app/",
-  },
-  {
-    title: "E-commerce Website",
-    des: " Ear Bliss is a front-end web application built in react, Strapi as the back-end CMS, and Stripe for payment processing. The website typically includes features like product catalogs, shopping carts, checkout process, and payment process.",
-    src: projectTwo,
-    githubLink: "https://github.com/your-github-link-here",
-    websiteLink: "https://your-website-link-here.com",
   },
   {
     title: "Twitter Analytics",
