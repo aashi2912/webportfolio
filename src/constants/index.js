@@ -33,8 +33,7 @@ export const workExperiences = [
   {
     _id: 1,
     title: "Jr. Software Developer (Programmer Analyst)",
-    subTitle:
-      "Cognizant Technology Solutions - ( Mar 2021 - Jun 2022) - Full Time",
+    subTitle: "Cognizant Technology Solutions - ( Mar 2021 - Jun 2022)",
     location: "PUNE, INDIA",
     description: [
       "Designed and developed interactive user interfaces for web applications. Created responsive web designs that are optimized for various devices.",
@@ -46,8 +45,8 @@ export const workExperiences = [
   },
   {
     _id: 2,
-    title: "Trainee",
-    subTitle: "Larsen & Toubro- (May 2019- Jun 2019) - Part Time",
+    title: "Intern",
+    subTitle: "Larsen & Toubro- (May 2019- Jun 2019)",
     location: "VADODARA, INDIA",
     description: [
       "Developed a Python application for the organization’s internal infrastructure.",

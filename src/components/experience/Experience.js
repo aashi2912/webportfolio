@@ -22,7 +22,7 @@ const Experience = () => {
           <div className="flex flex-col gap-4">
             <p className="text-sm text-designColor tracking-[4px]">2019-2022</p>
           </div>
-          <div className="mt-14 w-full h-fit border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+          <div className="mt-14 w-full h-fit border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10 text-justify">
             {workExperiences.map(
               ({ title, subTitle, _id, location, description }) => (
                 <ExperienceCard

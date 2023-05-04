@@ -10,7 +10,7 @@ const Contact = () => {
       <div className="flex justify-center items-center text-center">
         <Title title="CONTACT" des="GET IN TOUCH" />
       </div>
-      <div className="flex flex-col gap-4 lex justify-center items-center text-center rounded-lg shadow-shadowOne p-20  bg-gradient-to-r from-bodyColor to-[#202327] group hover:scale-110 cursor-pointer hover:bg-gradient-to-b hover:from-gray-900 hover:gray-900 transition-colors duration-1000">
+      <div className="flex flex-col gap-4 lex justify-center items-center text-center rounded-lg shadow-shadowOne py-20 px-10 md:p-20  bg-gradient-to-r from-bodyColor to-[#202327] group hover:scale-110 cursor-pointer hover:bg-gradient-to-b hover:from-gray-900 hover:gray-900 transition-colors duration-1000">
         <h3 className="text-3xl font-bold text-white">Aashi Thakkar</h3>
         <p className="text-lg font-normal text-designColor">
           Front-end Developer
