@@ -66,7 +66,7 @@ const LeftBanner = () => {
           <h2 className="text-base uppercase font-titleFont mb-4 ">
             Find me at
           </h2>
-          <div className="flex gap-4">
+          <div className="flex gap-4 flex-wrap">
             <a
               href="https://www.linkedin.com/in/aashithakkar29/"
               target="_blank"
