@@ -17,7 +17,7 @@ const LeftBanner = () => {
     delaySpeed: 2000,
   });
   return (
-    <div className="w-full lgl:w-1/2 flex flex-col gap-10">
+    <div className="w-full lgl:w-2/3 flex flex-col gap-10">
       <div className="flex flex-col gap-5">
         <h4 className=" text-lg font-normal">WELCOME TO MY PORTFOLIO!</h4>
         <h1 className="text-5xl font-bold text-white">
@@ -33,21 +33,22 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide text-justify">
-          I am a passionate software developer. However, front-end web
-          development has captured my interest like no other. I love developing
-          responsive, interactive, and visually appealing web applications using
-          technologies like ReactJS, HTML, CSS, and JavaScript. Solving complex
-          problems with creativity and meticulous attention to detail is what I
-          truly enjoy.
+          I am an experienced and passionate Software Developer with 1.5+ years
+          of experience in web development. I love developing responsive,
+          interactive, efficient, reliable and visually appealing web
+          applications using technologies like ReactJS, HTML, CSS, and
+          JavaScript. Solving complex problems with creativity and meticulous
+          attention to detail is what I truly enjoy. My knowledge in data
+          structures, algorithms, and database management, coupled with
+          technologies such as Git, provides me with a solid foundation for
+          developing scalable and robust software applications.
           <br />
           <br />I am of the firm belief that design and functionality go hand in
           hand in creating the most optimal user experiences. My strength lies
           in seamlessly integrating these two elements, thereby bringing visions
           to life and delivering an enjoyable and engaging online experience to
-          users. My proficiency in these technologies has been honed through
-          academic and personal projects. With my professional background and
-          academic training, I am confident in my ability to become a successful
-          front-end developer!
+          users. With my professional background and academic training, I am
+          confident in my ability to become a successful software developer!
           <br />
           <br /> Presently, I am pursuing my Master of Applied Computing degree
           at the University of Windsor, and I am always on the lookout for

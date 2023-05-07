@@ -3,6 +3,7 @@ import {
   projectFour,
   projectOne,
   projectThree,
+  projectTwo,
 } from "../assets/index";
 export const navLinksdata = [
   {
@@ -62,6 +63,13 @@ export const projectsData = [
     src: projectOne,
     githubLink: "https://github.com/aashi2912/react-admin-dashboard",
     websiteLink: "https://aashi-react-admin-dashboard.netlify.app/",
+  },
+  {
+    title: "Comfy Sloth",
+    des: " Created a fully functional e-commerce web application that allows users to browse and purchase products. Integrated with Stripe, for payment gateway and utilized Firebase as the data storage solution, ensuring that the website remains reliable and scalable.",
+    src: projectTwo,
+    githubLink: "https://github.com/aashi2912/ecommerce-comfy-sloth",
+    websiteLink: "https://aashi-ecommerceapp.netlify.app/",
   },
   {
     title: "Twitter Analytics",
