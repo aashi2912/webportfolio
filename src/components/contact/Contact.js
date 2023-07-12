@@ -19,11 +19,14 @@ const Contact = () => {
           Thank you for visiting my portfolio! I am student at University of
           Windsor, pursuing Master of Applied Computing.{" "}
           <b>
-            Currently looking for full-time Co-op/Internship opportunities
-            starting from Fall 2023.{" "}
+            Currently working full-time Co-op/Internship at RBC Capital markets
+            as Software Developer.{" "}
           </b>{" "}
-          I hope that we have the opportunity to work together, looking forward
-          to hearing from you soon!
+          If you have any questions, collaboration opportunities, or would like
+          to get in touch, please feel free to reach out!
+          <br /> I'm available for freelance work, so if you have a project in
+          mind, don't hesitate to contact me. I look forward to hearing from
+          you!
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone:{" "}
