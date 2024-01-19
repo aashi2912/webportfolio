@@ -33,33 +33,22 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide text-justify">
-          I am an experienced and passionate Software Developer with 1.5+ years
-          of experience in web development. I love developing responsive,
+          I am an experienced and passionate Software Developer with 2 years of
+          experience in web development. I love developing responsive,
           interactive, efficient, reliable and visually appealing web
-          applications using technologies like ReactJS, HTML, CSS, and
-          JavaScript. Solving complex problems with creativity and meticulous
-          attention to detail is what I truly enjoy. My knowledge in data
-          structures, algorithms, and database management, coupled with
-          technologies such as Git, provides me with a solid foundation for
-          developing scalable and robust software applications.
+          applications. Solving complex problems with creativity and meticulous
+          attention to detail is what I truly enjoy.
           <br />
-          <br />I am of the firm belief that design and functionality go hand in
-          hand in creating the most optimal user experiences. My strength lies
-          in seamlessly integrating these two elements, thereby bringing visions
-          to life and delivering an enjoyable and engaging online experience to
-          users. With my professional background and academic training, I am
-          confident in my ability to become a successful software developer!
           <br />
-          <br /> Presently, I am pursuing my Master of Applied Computing degree
-          at the University of Windsor, and I am always on the lookout for
-          opportunities to improve my skills and apply my knowledge to
-          real-world scenarios. Starting September 2023, I will be available for
-          a 4-8 month internship.
+          My strength lies in seamlessly integrating these two elements, thereby
+          bringing visions to life and delivering an enjoyable and engaging
+          online experience to users. With my professional background and
+          academic training, I am confident in my ability to become a successful
+          software developer!
           <br />
-          <br /> Apart from my work, I like to paint and read. I am an
-          enthusiastic and social person who loves to take up new challenges and
-          learn new skills. I love exchanging ideas and spreading knowledge and
-          positivity.
+          <br /> Apart from my work, I like to paint and watch movies/web
+          series. I am an enthusiastic and social person who loves to take up
+          new challenges and learn new skills.
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 pt-0">

@@ -38,7 +38,7 @@ const Navbar = () => {
           ))}
           <li className="border w-fit border-designColor border-2 rounded-md px-4 py-2">
             <a
-              href="https://drive.google.com/file/d/15t8uKljoI7rXWM2JpgJKKbcLtnWVaHAQ/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1kr5IUc1CMiZ40YN8mxICkDRiaHmfY6L0/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               s
@@ -81,7 +81,7 @@ const Navbar = () => {
                 ))}
                 <li className="border w-fit border-designColor border-2 rounded-md px-4 py-2">
                   <a
-                    href="https://drive.google.com/file/d/15t8uKljoI7rXWM2JpgJKKbcLtnWVaHAQ/view?usp=drive_link"
+                    href="https://drive.google.com/file/d/1kr5IUc1CMiZ40YN8mxICkDRiaHmfY6L0/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300"
