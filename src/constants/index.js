@@ -34,7 +34,7 @@ export const workExperiences = [
   {
     _id: 1,
     title: "Software Developer Intern",
-    subTitle: "Royal Bank of Canada - (Sept 2023 - Apr 2024)",
+    subTitle: "Royal Bank of Canada - (Sept 2023 - Present)",
     location: "TORONTO, CANADA",
     description: [
       "Contributed in developing a dynamic web app for stock traders using React, Next.js, Next-Auth, and MongoDB. Enabled users to generate trade reports for various assets, facilitating informed market predictions and decision-making.",
